@@ -1,7 +1,7 @@
 # Location-based-Satellite-to-Map-Convertor-Using-GAN
 
 
-Converting Satellite Images to Map Using GAN
+Converting Satellite Images of given location to Map Using GAN
 
 
 Several satellites are orbiting the planet so there is a huge collection of satellite images available. Digital Maps have become an integral part of most of our day-to-day lives, especially for navigation. Hence, utilizing satellite images and converting them to maps is of utmost importance.
