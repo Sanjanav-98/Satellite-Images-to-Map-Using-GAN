@@ -1,4 +1,4 @@
-# Satellite-Images-to-Map-Using-GAN
+# Location-based-Satellite-Images-to-Map-Convertor-Using-GAN
 
 
 Converting Satellite Images to Map Using GAN
